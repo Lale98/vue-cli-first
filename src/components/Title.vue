@@ -14,5 +14,7 @@ export default {
 
 
 <style scoped lang="scss">
-
+    h1 {
+        margin: 50px 0;
+    }
 </style>
